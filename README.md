@@ -16,4 +16,13 @@ It also has a train-mounted emergency braking button. It is used to apply brakes
 
 The system may be hacked, and the destination can be modified, putting passengers' lives in peril. This automation was previously implemented using PIC microcontrollers, but today we have Raspberry Pi and Arduino.
 
-![WhatsApp Image 2022-06-07 at 2 50 31 AM (1)](https://user-images.githubusercontent.com/77581464/172254524-f0c87660-be11-4182-b6b8-67f633ff4f80-small.jpeg)
+![WhatsApp Image 2022-06-07 at 2 50 31 AM (1)](https://user-images.githubusercontent.com/77581464/172254667-0b03a6f1-906f-49c5-81c5-9bfd961b0cc8.jpeg)
+![WhatsApp Image 2022-06-07 at 2 50 31 AM (2)](https://user-images.githubusercontent.com/77581464/172254684-adbaa4c1-8ebb-410b-a0b7-05e0d3a7e090.jpeg)
+![WhatsApp Image 2022-06-07 at 2 50 31 AM](https://user-images.githubusercontent.com/77581464/172254760-297c2096-653f-4bb9-9426-21a56a2ed6b4.jpeg)
+![WhatsApp Image 2022-06-07 at 2 50 31 AM (3)](https://user-images.githubusercontent.com/77581464/172254761-4101549f-3126-429a-bab2-7fd36cac8a3c.jpeg)
+![WhatsApp Image 2022-06-07 at 2 50 31 AM (4)](https://user-images.githubusercontent.com/77581464/172254765-d8ba436d-f588-40ec-9e17-e7435273562c.jpeg)
+![WhatsApp Image 2022-06-07 at 2 50 31 AM (5)](https://user-images.githubusercontent.com/77581464/172254767-acd04aee-2a89-4c03-82e9-dee567abbd35.jpeg)
+![WhatsApp Image 2022-06-07 at 2 50 31 AM (6)](https://user-images.githubusercontent.com/77581464/172254772-598cefa6-fc67-4c61-8350-995402f43c93.jpeg)
+![WhatsApp Image 2022-06-07 at 2 50 31 AM (7)](https://user-images.githubusercontent.com/77581464/172254775-bc259213-2ce7-434c-9aee-366e4394ea52.jpeg)
+
+
