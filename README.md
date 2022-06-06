@@ -16,4 +16,4 @@ It also has a train-mounted emergency braking button. It is used to apply brakes
 
 The system may be hacked, and the destination can be modified, putting passengers' lives in peril. This automation was previously implemented using PIC microcontrollers, but today we have Raspberry Pi and Arduino.
 
-![WhatsApp Image 2022-06-07 at 2 50 31 AM (1)](https://user-images.githubusercontent.com/77581464/172254524-f0c87660-be11-4182-b6b8-67f633ff4f80.jpeg)
+![WhatsApp Image 2022-06-07 at 2 50 31 AM (1)](https://user-images.githubusercontent.com/77581464/172254524-f0c87660-be11-4182-b6b8-67f633ff4f80-small.jpeg)
